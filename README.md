@@ -4,11 +4,11 @@ Repositório de referência histórica, consolidando pequenos estudos e cases de
 
 ## Conteúdo
 
-- `azul/` — Case de negócio sobre NPS da Azul.
-- `consulting/` — Notas de estudo.
-- `credit-risk-model/` — Projeto end-to-end de modelo de risco de crédito (Kaggle "Give Me Some Credit"), com infra de CI/CD e AWS.
-- `studies/` — Coletânea de estudos diversos: interpretabilidade de modelos (SHAP), redução de dimensionalidade (PCA), modelos de classificação, engenharia de features, geodata, web scraping com Selenium, entre outros.
-- `uci_default_credit_card/` — Modelo de ML sobre o dataset público UCI "Default of Credit Card Clients".
+- [`azul/`](./azul) — Case de negócio sobre NPS da Azul.
+- [`consulting/`](./consulting) — Notas de estudo.
+- [`credit-risk-model/`](./credit-risk-model) — Projeto end-to-end de modelo de risco de crédito (Kaggle "Give Me Some Credit"), com infra de CI/CD e AWS.
+- [`studies/`](./studies) — Coletânea de estudos diversos: interpretabilidade de modelos (SHAP), redução de dimensionalidade (PCA), modelos de classificação, engenharia de features, geodata, web scraping com Selenium, entre outros.
+- [`uci_default_credit_card/`](./uci_default_credit_card) — Modelo de ML sobre o dataset público UCI "Default of Credit Card Clients".
 
 ## Notas de privacidade/segurança
 
